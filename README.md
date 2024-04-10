@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @humphreyt12
 - 👀 I’m interested in traveling, reading, kickboxing, and ZUMBA.
-- 🌱 I’m currently learning from UCF's full stack coding boot camp on front-end technologies such as CSS, JavaScript, and HTML and backend technologies.
+- 🌱 I recently graduated from UCF's full stack coding boot camp on front-end technologies such as CSS, JavaScript, and HTML and backend technologies such as Express, MERN, and Mongo.
 - 💞️ I’m looking to collaborate on app development.
 - 📫 How to reach me: humphrey14t@gmail.com
 <!---
